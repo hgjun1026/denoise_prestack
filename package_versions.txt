@@ -2,6 +2,5 @@ Keras==2.7.0
 numpy==1.19.5
 matplotlib==3.5.0
 tensorflow-gpu==2.7.0
-matplotlib==3.5.0
 tqdm==4.62.3
 pydot==1.4.1
